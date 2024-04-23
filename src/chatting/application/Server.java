@@ -67,7 +67,7 @@ public class Server implements ActionListener{
         i3con.setBounds(420, 20, 10, 25);
         p1.add(i3con);
         
-        JLabel name = new JLabel("Gaitonde");
+        JLabel name = new JLabel("Ankit");
         name.setBounds(110, 15, 100, 18);
         name.setForeground(Color.WHITE);
         name.setFont(new Font("SAN_SERIF", Font.BOLD, 18));
